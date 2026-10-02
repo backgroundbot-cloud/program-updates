@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/latest/download/backend.exe",
-  "sha256": "FC58182B4BCB437AD69DFDDC2F8D1A78E6FC5C2FFA19B0952A14361FD4EA498A",
-  "notes": "v1.1.0 - Added license activation and device authorization."
+  "sha256": "1A72731B7A34E2907AD60A762F4E9BD82A4832FA4205A442B01E952488ECDDF3",
+  "notes": "v1.1.1 - Fixed license server compatibility on some Windows systems."
 }
