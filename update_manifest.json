@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/latest/download/backend.exe",
-  "sha256": "D513BD6FCFBB15BD6AA76F0E9F6D207CF7EA7285AE440378711F0CB0D8280BA0",
-  "notes": "v1.1.3 - Added independent Buff 2 and Buff 3 timers, improved rebuff reliability, and improved Telegram SSL compatibility."
+  "version": "1.1.4",
+  "download_url": "PASTE_THE_BACKEND_EXE_DOWNLOAD_LINK",
+  "sha256": "f1fe47ec7ab6bba28bcd1e4c4f521ddbb10d3987a5557be79fcad7a1e4b020aa",
+  "notes": "New dark UI with Day/Night toggle and improved window positioning."
 }
