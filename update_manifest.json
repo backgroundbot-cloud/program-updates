@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/latest/download/backend.exe",
-  "sha256": "1A72731B7A34E2907AD60A762F4E9BD82A4832FA4205A442B01E952488ECDDF3",
-  "notes": "v1.1.1 - Fixed license server compatibility on some Windows systems."
+  "sha256": "508C409C56BA051F372E98761EAFACE8AF9CC59FD17E68C56C11573E2447F8B4",
+  "notes": "v1.1.2 - Added login-screen disconnect detection, automatic disconnect screenshots, and automatic pause until resumed."
 }
