@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.4/backend.exe",
-  "sha256": "f1fe47ec7ab6bba28bcd1e4c4f521ddbb10d3987a5557be79fcad7a1e4b020aa",
-  "notes": "Refreshed black UI with Day/Night toggle, fixed button alignment, scrollable settings, and improved window positioning above the taskbar."
+  "version": "1.1.5",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.5/backend.exe",
+  "sha256": "9326be57a41e3b10886f5de5dec15ff5b5a2ea8ce9bbb5b65916ed5866e8bfbc",
+  "notes": "Fixed Telegram setup fields being cut off on larger display scaling. Added automatic window sizing, scrolling, and resizing. Save and Cancel buttons now remain visible."
 }
