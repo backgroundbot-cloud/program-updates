@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.6/backend.exe",
-  "sha256": "e7e9404a1ebd6a6fa369887cc71554cb0b2df718e287e89927cdf5175d72abc3",
-  "notes": "Added an Enable DC / disconnect detection checkbox under Target Window. Enabled by default. Turn it off to disable automatic disconnect checks, alerts, and screenshots. Use Save Settings to remember your choice."
+  "version": "1.1.7",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.7/backend.exe",
+  "sha256": "c829c5cb357a488dff44f727a7b98bc6fdedc6ac305728a744138276b6bb13c9",
+  "notes": "Added live license verification every 60 seconds. Automation stops when expiry or revocation is detected. Includes a five-minute connection-failure grace period, remaining license duration and expiry in Singapore time, startup expiry reminders, and Telegram reminders at 7 days, 3 days, 1 day, and 1 hour remaining."
 }
