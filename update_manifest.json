@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.5/backend.exe",
-  "sha256": "9326be57a41e3b10886f5de5dec15ff5b5a2ea8ce9bbb5b65916ed5866e8bfbc",
-  "notes": "Fixed Telegram setup fields being cut off on larger display scaling. Added automatic window sizing, scrolling, and resizing. Save and Cancel buttons now remain visible."
+  "version": "1.1.6",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.6/backend.exe",
+  "sha256": "e7e9404a1ebd6a6fa369887cc71554cb0b2df718e287e89927cdf5175d72abc3",
+  "notes": "Added an Enable DC / disconnect detection checkbox under Target Window. Enabled by default. Turn it off to disable automatic disconnect checks, alerts, and screenshots. Use Save Settings to remember your choice."
 }
