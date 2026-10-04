@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.7/backend.exe",
-  "sha256": "c829c5cb357a488dff44f727a7b98bc6fdedc6ac305728a744138276b6bb13c9",
-  "notes": "Added live license verification every 60 seconds. Automation stops when expiry or revocation is detected. Includes a five-minute connection-failure grace period, remaining license duration and expiry in Singapore time, startup expiry reminders, and Telegram reminders at 7 days, 3 days, 1 day, and 1 hour remaining."
+  "version": "1.1.8",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.8/backend.exe",
+  "sha256": "2a6240fde2d14566180d029f5da2654d06b5f25479cb864b56ad9327ca2bdc73",
+  "notes": "Improved disconnect detection to reduce false alerts from in-game windows. Login-screen checks now require MapleStory to be focused and not minimized, with two consecutive visual matches. Detected disconnects completely stop automation and require Start to be pressed again. Closed-window detection continues in the background."
 }
