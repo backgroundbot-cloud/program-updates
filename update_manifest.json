@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.1.8/backend.exe",
-  "sha256": "2a6240fde2d14566180d029f5da2654d06b5f25479cb864b56ad9327ca2bdc73",
-  "notes": "Improved disconnect detection to reduce false alerts from in-game windows. Login-screen checks now require MapleStory to be focused and not minimized, with two consecutive visual matches. Detected disconnects completely stop automation and require Start to be pressed again. Closed-window detection continues in the background."
+  "version": "1.2.0",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/latest/download/backend.exe",
+  "sha256": "f105a455dbf0be299a75ed33cf75cbbe3916f9fcf5564d02339d5cda77f065cc",
+  "notes": "Added character death detection with automatic pause and Telegram alert. Added /dc remote disconnect control. Automatic disconnect and monitoring alerts now only trigger while automation is actively running. Improved death detection reliability across different game window sizes."
 }
