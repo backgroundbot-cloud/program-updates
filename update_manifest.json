@@ -2,5 +2,5 @@
   "version": "1.2.8",
   "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.2.8/backend.exe",
   "sha256": "CD410412EC7690663D7ADFCBA415D060D5F626FBF9102B70F7A1F73957EDF911",
-  "notes": "Added automatic Telegram screenshot when a game-window crash is detected. Preserved existing disconnect detection."
+  "notes": "Added Telegram screenshot when crash disconnect is detected."
 }
