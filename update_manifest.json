@@ -1,6 +1,8 @@
+
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v1.2.8/backend.exe",
-  "sha256": "CD410412EC7690663D7ADFCBA415D060D5F626FBF9102B70F7A1F73957EDF911",
-  "notes": "Added Telegram screenshot when crash disconnect is detected."
+  "version": "2.0.0",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v2.0.0/backend.exe",
+  "sha256": "43f02d6006386a128c064f192f2074c4e70ed6f5d07a9ebd25faf16e1a9f2d77",
+  "notes": "Added GM Detection."
 }
+  
