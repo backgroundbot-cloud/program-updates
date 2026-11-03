@@ -1,7 +1,6 @@
-
 {
-  "version": "3.1.1",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.1.1/backend.exe",
-  "sha256": "D5B85F5DEF0E0A9CE2F47ACA8C4105DD2CE2C3D7002D2C14C8761EB57BE0A4B9",
-  "notes": "KURO BOT v3.1.1 — Map Safety & Stability Update\n\nNEW FEATURES\n• Background Detection — Works even when the game isn't in the foreground.\n• Multi-Monitor Support — Improved compatibility across multiple monitors.\n• Map Change Detection — Automatically pauses on unexpected map changes.\n• Disconnection Protection — Improved detection and automatic safety pauses.\n• Telegram Safety Alerts — Notifications with screenshots.\n• Manual Resume Override — Resume without restarting.\n• Live Detection Previews — Real-time minimap and chat previews.\n\nIMPROVEMENTS\n• Faster detection and responsiveness.\n• Saved detection areas and preferences.\n• Cleaner, scrollable Map Detection interface.\n• Improved stability and background monitoring."
+  "version": "3.1.2",
+  "url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.1.2/backend.exe",
+  "sha256": "15733F961C3758DCF2C757BB3DA3C83A92A2013483A33DC3A4FF2602F16E89D4",
+  "notes": "Improved CPU usage"
 }
