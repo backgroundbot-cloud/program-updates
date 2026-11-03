@@ -1,6 +1,6 @@
 {
   "version": "3.1.2",
-  "url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.1.2/backend.exe",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.1.2/backend.exe",
   "sha256": "15733F961C3758DCF2C757BB3DA3C83A92A2013483A33DC3A4FF2602F16E89D4",
   "notes": "Improved CPU usage"
 }
