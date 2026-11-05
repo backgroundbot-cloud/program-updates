@@ -1,6 +1,7 @@
+
 {
-  "version": "3.1.2",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.1.2/backend.exe",
-  "sha256": "15733F961C3758DCF2C757BB3DA3C83A92A2013483A33DC3A4FF2602F16E89D4",
-  "notes": "Improved CPU usage"
+  "version": "3.4.0",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.4.0/backend.exe",
+  "sha256": "62BE618E605CF437759B32A343056D32631204A3C914BDEBCE4DEDE96C66226E",
+  "notes": "KURO BOT v3.4.0\n\n- Updated GM chat detection to latest teal background\n- Added GM character detection\n- Added minimum performance mode"
 }
