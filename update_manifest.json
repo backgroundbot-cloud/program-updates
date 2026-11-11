@@ -1,7 +1,7 @@
 
 {
-  "version": "3.4.0",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.4.0/backend.exe",
-  "sha256": "62BE618E605CF437759B32A343056D32631204A3C914BDEBCE4DEDE96C66226E",
-  "notes": "KURO BOT v3.4.0\n\n- Updated GM chat detection to latest teal background\n- Added GM character detection\n- Added minimum performance mode"
+  "version": "3.4.8",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.4.8/backend.exe",
+  "sha256": "8EF5EEC09283A37866CF4FF585EBA182CD298732EB7F6668635C4643F5056BD7",
+  "notes": "KURO BOT v3.4.8\n\n- Added randomizer to movement keys with a face left/right option\n- Added positions tracker - auto back to lane\n- Moved movement to a standalone tab"
 }
