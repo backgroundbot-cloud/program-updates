@@ -1,7 +1,7 @@
 
 {
-  "version": "3.4.8",
-  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.4.8/backend.exe",
-  "sha256": "8EF5EEC09283A37866CF4FF585EBA182CD298732EB7F6668635C4643F5056BD7",
-  "notes": "KURO BOT v3.4.8\n\n- Added randomizer to movement keys with a face left/right option\n- Added positions tracker - auto back to lane\n- Moved movement to a standalone tab"
+  "version": "3.4.10",
+  "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.4.10/backend.exe",
+  "sha256": "C2A128E87DB91931AE74A7C141E3EBF1CCA6F6BCFA0C1C011A91FCBC0E487D17",
+  "notes": "KURO BOT v3.4.10\n\n- Added pause button\n- Pause works when repositioning to platforms\n- Improved forced map change detection"
 }
