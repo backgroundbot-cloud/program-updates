@@ -1,7 +1,7 @@
 
 {
-  "version": "3.4.10",
+  "version": "3.5.0",
   "download_url": "https://github.com/backgroundbot-cloud/program-updates/releases/download/v3.5.0/backend.exe",
   "sha256": "CC84DE88F567BCE13AE812E5995ADC79CF9A995DA7BE4C5B4A84A93249190ABD",
-  "notes": "KURO BOT v3.4.10\n\n- Added auto tp back to training map\n- Added /tp IGN option to telegram commands\n- Improved play area movement"
+  "notes": "KURO BOT v3.5.0\n\n- Added auto tp back to training map\n- Added /tp IGN option to telegram commands\n- Improved play area movement"
 }
